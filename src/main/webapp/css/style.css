@@ -1,5 +1,51 @@
+/* ALL PAGES */
+
+body {
+	background-image: url("/Travelpak/img/light-blue.jpg");
+	background-repeat: repeat;
+}
+
+.lobster {
+	font-family: lobster;
+}
+
+.bottom-page-push {
+	margin-bottom: 150px;
+}
+
+.title {
+	margin-bottom: 100px;
+}
+
 /* FOOTER */
 
 #footer_text {
 	margin-top: 15px;
+}
+
+/* ABOUT */
+
+#about-page-description {
+	margin: 50px 0px 50px 0px;
+}
+
+.about-page-image {
+	height: 250px;
+	border: 1px solid black;
+}
+
+#about-page-image-one {
+	background-image: url("/Travelpak/img/about-page-one.jpg");
+}
+
+#about-page-image-two {
+	background-image: url("/Travelpak/img/about-page-two.jpg");
+}
+
+#about-page-image-three {
+	background-image: url("/Travelpak/img/about-page-three.jpg");
+}
+
+#about-page-image-four {
+	background-image: url("/Travelpak/img/about-page-four.jpg");
 }

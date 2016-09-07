@@ -13,5 +13,9 @@ public class HomeController {
 		return "index";
 	}
 	
+	@RequestMapping(path="/displayAboutPage", method=RequestMethod.GET)
+	public String displayAboutPage() {
+		return "about";
+	}
 	
 }

@@ -2,9 +2,7 @@
 
 <c:import url="/WEB-INF/jsp/header.jsp" />
 	
-<h1 class="text-center">Travelpak Home Page</h1>
-	
-	<p>Here is some new content</p>
+<h1 class="text-center lobster">Travelpak Home Page</h1>
 	
 	
 <c:import url="/WEB-INF/jsp/footer.jsp" />
