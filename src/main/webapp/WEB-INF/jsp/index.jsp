@@ -4,6 +4,7 @@
 	
 <h1 class="text-center">Travelpak Home Page</h1>
 	
+	<p>Here is some new content</p>
 	
-</body>
-</html>
+	
+<c:import url="/WEB-INF/jsp/footer.jsp" />

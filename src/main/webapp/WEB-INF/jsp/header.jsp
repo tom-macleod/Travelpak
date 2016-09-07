@@ -5,6 +5,7 @@
 <head>
 	<title>Travelpak</title>
 	<link type="text/css" rel="stylesheet" href="css/cerulean-bootstrap.css" />
+	<link type="text/css" rel="stylesheet" href="css/style.css" />
 </head>
 
 <body>
