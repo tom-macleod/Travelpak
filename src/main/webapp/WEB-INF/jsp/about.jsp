@@ -16,10 +16,10 @@
 		<div class="col-sm-8">
 			<div id="about-page-description" class="alert alert-info">
 				<h4  class="text-center text-default">
-					Travelpak is your new go-to app to discover your perfect vacation! <br><br>
-					It was created to make affordable yet quality getaways easy to find! <br><br>
-					We have locations all over the world and something to suit everyone! <br><br> 
-					So go ahead - use the navagation bar above to search for your dream holiday!
+					Travelpak was created by a dedicated team of travel enthusiasts who have travelled the world, 
+					and want to use their experiences to help others find their own adventures.  This app was developed to allow easy access to 
+					the vacation deals our team has discovered. <br><br> Our team finds the best deals so you don't have to, so go ahead - find your 
+					dream getaway!
 				</h4>
 			</div>
 		</div>	

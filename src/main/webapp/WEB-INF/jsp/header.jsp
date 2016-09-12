@@ -20,7 +20,7 @@
 				<c:url value="/displayAboutPage" var="about" />
 				<li><a href="${home}">Home</a></li>
 				<li><a href="${about}">About</a></li>
-				<li><a href="#">Packages</a></li>
+				<li><a href="#">View All</a></li>
 			</ul>
 		</div>
 	</nav>

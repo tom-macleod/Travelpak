@@ -17,6 +17,21 @@ body {
 	margin-bottom: 100px;
 }
 
+.large-title {
+	font-size: 3em;
+}
+
+/* INDEX */
+
+#index_background {
+	background-image: url("/Travelpak/img/index-background.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	height: 300px;
+	border-radius: 20px;
+	border: 1px solid #6495ED;
+}
+
 /* FOOTER */
 
 #footer_text {
