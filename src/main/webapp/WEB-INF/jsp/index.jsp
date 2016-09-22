@@ -12,7 +12,7 @@
 	<div class="col-sm-1"></div>
 </div>	
 	<br><br>
-	<p class="text-center">Search for a location below or use the navagation bar above to find a perfect vaccation.</p>
+	<p class="text-center">Search for a location below or use the navagation bar above to find a perfect winter vaccation.</p>
 	<br>
 	<div class="text-center alert alert-info">
 		<form action="#" method="GET">

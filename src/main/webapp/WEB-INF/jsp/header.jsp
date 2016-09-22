@@ -18,9 +18,10 @@
 	        </div>
 			<ul class="nav navbar-nav">
 				<c:url value="/displayAboutPage" var="about" />
+				<c:url value="/displayViewAllPage" var="viewAll" />
 				<li><a href="${home}">Home</a></li>
 				<li><a href="${about}">About</a></li>
-				<li><a href="#">View All</a></li>
+				<li><a href="${viewAll}">View All</a></li>
 			</ul>
 		</div>
 	</nav>

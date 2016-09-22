@@ -18,4 +18,9 @@ public class HomeController {
 		return "about";
 	}
 	
+	@RequestMapping(path="/displayViewAllPage", method=RequestMethod.GET)
+	public String displayViewAllPage() {
+		return "viewAll";
+	}
+	
 }

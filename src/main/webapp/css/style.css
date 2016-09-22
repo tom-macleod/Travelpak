@@ -46,21 +46,32 @@ body {
 
 .about-page-image {
 	height: 250px;
-	border: 1px solid black;
 }
 
+
 #about-page-image-one {
-	background-image: url("/Travelpak/img/about-page-one.jpg");
+	height: 100%;
+	width: 100%;
+	border: 1px solid navy;
 }
 
 #about-page-image-two {
 	background-image: url("/Travelpak/img/about-page-two.jpg");
+	height: 100%;
+	width: 100%;
+	border: 1px solid navy;
 }
 
 #about-page-image-three {
 	background-image: url("/Travelpak/img/about-page-three.jpg");
+	height: 100%;
+	width: 100%;
+	border: 1px solid navy;
 }
 
 #about-page-image-four {
 	background-image: url("/Travelpak/img/about-page-four.jpg");
+	height: 100%;
+	width: 100%;
+	border: 1px solid navy;
 }
