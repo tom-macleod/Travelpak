@@ -12,11 +12,11 @@
 	<div class="col-sm-1"></div>
 </div>	
 	<br><br>
-	<p class="text-center">Search for a location below or use the navagation bar above to find a perfect winter vaccation.</p>
+	<p class="text-center">Search for a location below or use the navigation bar above to find a perfect winter vacation.</p>
 	<br>
 	<div class="text-center alert alert-info">
 		<form action="#" method="GET">
-			<label>Search Location <br><input class="text-fade" type="text" name="s" placeholder="Rome..." /></label>
+			<label>Search Location <br><input class="text-fade" type="text" name="s" placeholder="Japan..." /></label>
 			<br><br>
 			<button class="btn btn-primary" type="submit">Search</button>
 		</form>
